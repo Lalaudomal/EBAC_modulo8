@@ -10,14 +10,7 @@
             Dado que eu esteja na tela de checkout do site da loja
 
             Esquema do Cenario: cadastro efetuado com sucesso
-            Quando eu inserir o <nome>
-            E o <Sobrenome>
-            E o <Pais>
-            E o <Endereco>
-            E a <Cidade>
-            E o <CEP>
-            E o <telefone>
-            E o <E-mail>
+            Quando eu inserir o <nome>, <Sobrenome>, <Pais>, <Endereco>, <Cidade>, <CEP>, <telefone> e <E-mail>
             Então o pedido será finalizado
 
             Exemplos:
